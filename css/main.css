@@ -1320,3 +1320,6 @@ a:hover{
 	margin: auto;
 	padding: auto;
 }
+iframe{
+    overflow:hidden;
+}
