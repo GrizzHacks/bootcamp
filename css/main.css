@@ -1256,18 +1256,12 @@ form label {
 	color: deepskyblue; !important;
   font-weight: bold;
   font-size: 100%;
-  -webkit-transition: 2s;
+    
+  -webkit-transition: 90s;
 	background-color: none !important;
 }
 
-.navbar-nav li a:hover{
-  text-decoration: none;
-	color: deepskyblue; !important;
-  font-weight: bold;
-  font-size: 100%;
-  -webkit-transition: 2s;
-	background-color: none !important;
-}
+
 
 .navbar-toggle{
     background-color: black;
